@@ -1,0 +1,31 @@
+body{
+    background-color: pink;
+
+}
+
+#show_sketch{
+    float: right;
+}
+
+#score{
+    font-size: 20px;
+    margin: 20px;
+    float: left;
+}
+
+#timer{
+    font-size: 20px;
+    float: right;
+    margin: 20px;
+
+}
+
+p{
+    font-size: 25px;
+    font-family: sans-serif;
+    color: black;
+}
+
+#correct-sketch{
+    color: red;
+}
